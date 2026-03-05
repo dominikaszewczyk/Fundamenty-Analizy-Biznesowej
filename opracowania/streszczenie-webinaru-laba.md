@@ -1,5 +1,5 @@
-**Opracowanie: Wprowadzenie do analizy biznesowej – definicja pojęć i roli analityka (Szkoła Biznesu Laba)**
-**Źródło:** https://www.youtube.com/watch?v=HoNbB9HmhN0
+**Opracowanie:** Wprowadzenie do analizy biznesowej – definicja pojęć i roli analityka (Szkoła Biznesu Laba)
+**Źródło:**   https://www.youtube.com/watch?v=HoNbB9HmhN0
 **Data analizy:** 2026-03-05
 
 * **Streszczenie:** 
@@ -11,3 +11,7 @@ Istotne jest to, że analityk biznesowy musi kierować się dążeniem do okreś
 ponieważ błąd wykryty na początku kosztuje mniej niż po wprowadzeniu.
 Webinar porusza też, jak ważne jest doświadczenie praktyczne pracowników, które jasno przekłada się na wprowadzanie realnych korzyści i zrozumienie swojego celu.
 
+**1. Różnica pomiędzy: Konsultant vs Skryba:
+* Działania podejmowane przez „analityka-skrybę” stają się bezpośrednim zagrożeniem dla budżetu firmy, ponieważ brak selekcji pomysłów jest głównym powodem generowania kosztów, których organizacja nie będzie w stanie pokryć. Pasywne oczekiwanie na instrukcje powoduje dużą stratę czasu i sprawia, że współpraca traci na znaczeniu, zamieniając się jedynie w bezkrytyczną „obsługę zamówień”. Największym niebezpieczeństwem jest tutaj wprowadzanie ukrytych kosztów; brak wykrycia błędów na wczesnym etapie skutkuje później mnóstwem drogich poprawek, których można było uniknąć już na samym początku.
+
+* Zupełnie inaczej wygląda rola analityka jako „konsultanta”, gdzie kluczową różnicą jest umiejętność „oddzielania ziarna od plew”, co pozwala dostrzec realne potrzeby biznesowe, a nie tylko życzenia będące niepotrzebnym wydatkiem. Współpraca przyjmuje wtedy formę zrównoważonego partnerstwa, w którym osoba odpowiedzialna za analizę doradza rozwiązania nieznane klientowi, zamiast jedynie czekać na wytyczne. W tym podejściu niezwykle ważna jest asertywność. Umiejętność powiedzenia „nie” chroni firmę przed wejściem w ukryte koszty dzięki wczesnemu wykrywaniu błędów logicznych, co gwarantuje, że każda wydana złotówka przyniesie realną wartość biznesową.
