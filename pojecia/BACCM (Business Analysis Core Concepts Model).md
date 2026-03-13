@@ -36,3 +36,15 @@ To osoba, na która ta zmiana w jakikolwiek sposób wpływa.
 Może to być ktoś, kto przy niej pracuje, ktoś, kto za nią płaci, albo klient, który na końcu dostaje produkt.
 W sklepie meblowym najważniejszymi interesariuszami mogą być na przykład magazynierzy, 
 bo to oni będą codziennie używać nowego systemu i od ich zaangażowania zależy, czy wysyłki przyspieszą.
+
+
+### MVP w ujęciu BACCM
+
+**MVP (Minimum Viable Product)** to wczesna, funkcjonalna wersja produktu, posiadająca tylko niezbędne cechy, aby trafić na rynek przy niskim nakładzie kosztów i czasu. Jego celem jest zbadanie zainteresowania klientów i uzyskanie feedbacku w celu ulepszenia produktu.
+
+Zastosowanie BACCM przy definiowaniu MVP zapobiega budowaniu systemów, które są technicznie poprawne, ale nie znajdują uzasadnienia rynkowego.
+Przekłada się to na następujące działania:
+
+* **Need (Potrzeba):** Koncentracja na rozwiązaniu wyłącznie krytycznych problemów użytkownika.
+* **Value (Wartość):** Wczesna weryfikacja opłacalności modelu biznesowego przy ograniczonym ryzyku finansowym.
+* **Change (Zmiana):** Ograniczenie zakresu zmian do niezbędnego minimum, aby szybciej wdrożyć produkt.
